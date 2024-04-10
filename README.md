@@ -1,4 +1,4 @@
-# Nutritech---Pot
+# Nutritech-Pot
 
 Introducing the NutriTech Pot: an innovative solution to the common challenge of plant care. Our team's Engineering Design Project, born out of the second semester of EN1190, addresses the struggle many face in maintaining healthy plants due to inconsistent watering. The NutriTech Pot is a smart plant care system designed to simplify and enhance the plant care experience for all.
 

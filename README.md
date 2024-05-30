@@ -22,3 +22,5 @@ Automatic Watering: Utilizing an Atmega328p microcontroller, the NutriTech Pot e
 
 With the NutriTech Pot, we aim to make plant care accessible and enjoyable for everyone, enriching lives through greenery.
 ![WhatsApp Image 2024-04-10 at 22 42 30_117d8fc9](https://github.com/jaliyanimanthako/Nutritech---Pot/assets/161110418/6e10fa26-fca8-48d6-a062-e8a78c814c1f)
+![Demonstration (1)](https://github.com/jaliyanimanthako/Nutritech-Pot/assets/161110418/b120ad35-e97a-471f-b194-2cd998a5a9a9)
+
